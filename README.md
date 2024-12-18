@@ -2,6 +2,9 @@
 
 This Starter Kit empowers developers to build modern, real-time applications effortlessly. Designed with simplicity and versatility in mind, this kit provides everything you need to create seamless, voice-interactive AI chat interfaces with real-time audio streaming and text responses.
 
+<img src="example.png" alt="Example Image" width="75%">
+
+
 OpenAI's latest WebRTC APIs, introduced on Day 9 of "12 Days of OpenAI" (December 17, 2024), are at the core of this starter kit, ensuring you can deliver exceptional user experiences. For more information, visit the [OpenAI WebRTC documentation](https://platform.openai.com/docs/guides/realtime-webrtc).
 
 ## 🌟 Why Use This Starter Kit?
